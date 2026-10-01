@@ -1,0 +1,6 @@
+__pycache__/
+.idea/
+
+# Собранные бинарники statsgen
+/statsgen
+/ViktorVanyuta

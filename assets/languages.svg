@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="268" viewBox="0 0 520 268">
+<rect width="520" height="268" rx="10" fill="#161b22" stroke="#30363d"/>
+<text x="24.0" y="36.0" font-family="Verdana,DejaVu Sans,sans-serif" font-size="15" fill="#e6edf3" text-anchor="start" font-weight="bold">Используемые языки</text>
+<path d="M116.00,75.00 A78.00,78.00 0 0 1 150.44,222.99 L138.08,197.86 A50.00,50.00 0 0 0 116.00,103.00 Z" fill="#00ADD8" stroke="#161b22" stroke-width="1"><title>Go: 42.7%</title></path>
+<path d="M150.44,222.99 A78.00,78.00 0 0 1 47.82,190.89 L72.30,177.29 A50.00,50.00 0 0 0 138.08,197.86 Z" fill="#A97BFF" stroke="#161b22" stroke-width="1"><title>Kotlin: 24.2%</title></path>
+<path d="M47.82,190.89 A78.00,78.00 0 0 1 40.40,133.78 L67.54,140.68 A50.00,50.00 0 0 0 72.30,177.29 Z" fill="#3572A5" stroke="#161b22" stroke-width="1"><title>Python: 12.0%</title></path>
+<path d="M40.40,133.78 A78.00,78.00 0 0 1 68.75,90.94 L85.71,113.22 A50.00,50.00 0 0 0 67.54,140.68 Z" fill="#F1E05A" stroke="#161b22" stroke-width="1"><title>JavaScript: 10.7%</title></path>
+<path d="M68.75,90.94 A78.00,78.00 0 0 1 100.82,76.49 L106.27,103.96 A50.00,50.00 0 0 0 85.71,113.22 Z" fill="#E34C26" stroke="#161b22" stroke-width="1"><title>HTML: 7.2%</title></path>
+<path d="M100.82,76.49 A78.00,78.00 0 0 1 111.60,75.12 L113.18,103.08 A50.00,50.00 0 0 0 106.27,103.96 Z" fill="#336790" stroke="#161b22" stroke-width="1"><title>PLpgSQL: 2.2%</title></path>
+<path d="M111.60,75.12 A78.00,78.00 0 0 1 113.47,75.04 L114.38,103.03 A50.00,50.00 0 0 0 113.18,103.08 Z" fill="#384D54" stroke="#161b22" stroke-width="1"><title>Dockerfile: 0.4%</title></path>
+<path d="M113.47,75.04 A78.00,78.00 0 0 1 114.90,75.01 L115.30,103.00 A50.00,50.00 0 0 0 114.38,103.03 Z" fill="#563D7C" stroke="#161b22" stroke-width="1"><title>CSS: 0.3%</title></path>
+<path d="M114.90,75.01 A78.00,78.00 0 0 1 116.00,75.00 L116.00,103.00 A50.00,50.00 0 0 0 115.30,103.00 Z" fill="#89E051" stroke="#161b22" stroke-width="1"><title>Shell: 0.2%</title></path>
+<text x="116.0" y="151.0" font-family="Verdana,DejaVu Sans,sans-serif" font-size="24" fill="#e6edf3" text-anchor="middle" font-weight="normal">9</text>
+<text x="116.0" y="171.0" font-family="Verdana,DejaVu Sans,sans-serif" font-size="11" fill="#8b949e" text-anchor="middle" font-weight="normal">языков</text>
+<rect x="228.0" y="64.9" width="10" height="10" rx="2" fill="#00ADD8"/>
+<text x="246.0" y="73.9" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12" fill="#e6edf3" text-anchor="start" font-weight="normal">Go</text>
+<text x="496.0" y="73.9" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12" fill="#8b949e" text-anchor="end" font-weight="normal">42.7%</text>
+<rect x="228.0" y="84.7" width="10" height="10" rx="2" fill="#A97BFF"/>
+<text x="246.0" y="93.7" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12" fill="#e6edf3" text-anchor="start" font-weight="normal">Kotlin</text>
+<text x="496.0" y="93.7" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12" fill="#8b949e" text-anchor="end" font-weight="normal">24.2%</text>
+<rect x="228.0" y="104.4" width="10" height="10" rx="2" fill="#3572A5"/>
+<text x="246.0" y="113.4" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12" fill="#e6edf3" text-anchor="start" font-weight="normal">Python</text>
+<text x="496.0" y="113.4" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12" fill="#8b949e" text-anchor="end" font-weight="normal">12.0%</text>
+<rect x="228.0" y="124.2" width="10" height="10" rx="2" fill="#F1E05A"/>
+<text x="246.0" y="133.2" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12" fill="#e6edf3" text-anchor="start" font-weight="normal">JavaScript</text>
+<text x="496.0" y="133.2" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12" fill="#8b949e" text-anchor="end" font-weight="normal">10.7%</text>
+<rect x="228.0" y="144.0" width="10" height="10" rx="2" fill="#E34C26"/>
+<text x="246.0" y="153.0" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12" fill="#e6edf3" text-anchor="start" font-weight="normal">HTML</text>
+<text x="496.0" y="153.0" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12" fill="#8b949e" text-anchor="end" font-weight="normal">7.2%</text>
+<rect x="228.0" y="163.8" width="10" height="10" rx="2" fill="#336790"/>
+<text x="246.0" y="172.8" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12" fill="#e6edf3" text-anchor="start" font-weight="normal">PLpgSQL</text>
+<text x="496.0" y="172.8" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12" fill="#8b949e" text-anchor="end" font-weight="normal">2.2%</text>
+<rect x="228.0" y="183.6" width="10" height="10" rx="2" fill="#384D54"/>
+<text x="246.0" y="192.6" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12" fill="#e6edf3" text-anchor="start" font-weight="normal">Dockerfile</text>
+<text x="496.0" y="192.6" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12" fill="#8b949e" text-anchor="end" font-weight="normal">0.4%</text>
+<rect x="228.0" y="203.3" width="10" height="10" rx="2" fill="#563D7C"/>
+<text x="246.0" y="212.3" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12" fill="#e6edf3" text-anchor="start" font-weight="normal">CSS</text>
+<text x="496.0" y="212.3" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12" fill="#8b949e" text-anchor="end" font-weight="normal">0.3%</text>
+<rect x="228.0" y="223.1" width="10" height="10" rx="2" fill="#89E051"/>
+<text x="246.0" y="232.1" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12" fill="#e6edf3" text-anchor="start" font-weight="normal">Shell</text>
+<text x="496.0" y="232.1" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12" fill="#8b949e" text-anchor="end" font-weight="normal">0.2%</text>
+<text x="24.0" y="254.0" font-family="Verdana,DejaVu Sans,sans-serif" font-size="10" fill="#8b949e" text-anchor="start" font-weight="normal">по всем репозиториям, включая приватные</text>
+</svg>

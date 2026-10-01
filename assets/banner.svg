@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="280" viewBox="0 0 1000 280" role="img" aria-label="Viktor Vanyuta — Backend-разработчик Go">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#0d1117"/>
+    <stop offset="55%" stop-color="#161b22"/>
+    <stop offset="100%" stop-color="#0b1020"/>
+  </linearGradient>
+  <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#58a6ff"/>
+    <stop offset="50%" stop-color="#a371f7"/>
+    <stop offset="100%" stop-color="#3fb950"/>
+  </linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#58a6ff" stop-opacity="0"/>
+    <stop offset="50%" stop-color="#a371f7"/>
+    <stop offset="100%" stop-color="#3fb950" stop-opacity="0"/>
+  </linearGradient>
+</defs>
+<rect width="1000" height="280" rx="16" fill="url(#bg)" stroke="#30363d"/>
+<rect x="0" y="0" width="1000" height="4" rx="2" fill="url(#accent)"/>
+<text x="500.0" y="130.0" font-family="Verdana,DejaVu Sans,sans-serif" font-size="58" fill="url(#name)" text-anchor="middle" font-weight="bold">Viktor Vanyuta</text>
+<text x="500.0" y="174.0" font-family="Verdana,DejaVu Sans,sans-serif" font-size="21" fill="#e6edf3" text-anchor="middle" font-weight="normal">Backend-разработчик Go</text>
+<rect x="261.6" y="216.0" width="44.4" height="26.0" rx="13" fill="#1c2333" stroke="#30363d"/>
+<text x="275.6" y="234.0" font-family="Verdana,DejaVu Sans,sans-serif" font-size="13" fill="#a5b4c8" text-anchor="start" font-weight="normal">Go</text>
+<rect x="314.9" y="216.0" width="108.6" height="26.0" rx="13" fill="#1c2333" stroke="#30363d"/>
+<text x="328.9" y="234.0" font-family="Verdana,DejaVu Sans,sans-serif" font-size="13" fill="#a5b4c8" text-anchor="start" font-weight="normal">PostgreSQL</text>
+<rect x="432.5" y="216.0" width="62.1" height="26.0" rx="13" fill="#1c2333" stroke="#30363d"/>
+<text x="446.5" y="234.0" font-family="Verdana,DejaVu Sans,sans-serif" font-size="13" fill="#a5b4c8" text-anchor="start" font-weight="normal">gRPC</text>
+<rect x="503.6" y="216.0" width="63.6" height="26.0" rx="13" fill="#1c2333" stroke="#30363d"/>
+<text x="517.6" y="234.0" font-family="Verdana,DejaVu Sans,sans-serif" font-size="13" fill="#a5b4c8" text-anchor="start" font-weight="normal">Redis</text>
+<rect x="576.2" y="216.0" width="74.5" height="26.0" rx="13" fill="#1c2333" stroke="#30363d"/>
+<text x="590.2" y="234.0" font-family="Verdana,DejaVu Sans,sans-serif" font-size="13" fill="#a5b4c8" text-anchor="start" font-weight="normal">Docker</text>
+<rect x="659.8" y="216.0" width="78.7" height="26.0" rx="13" fill="#1c2333" stroke="#30363d"/>
+<text x="673.8" y="234.0" font-family="Verdana,DejaVu Sans,sans-serif" font-size="13" fill="#a5b4c8" text-anchor="start" font-weight="normal">Traefik</text>
+</svg>
